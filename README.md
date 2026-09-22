@@ -1,1 +1,2 @@
-lesen
+lesen und schreiben
+
